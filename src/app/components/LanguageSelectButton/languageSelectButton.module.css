@@ -1,0 +1,18 @@
+.button {
+  width: 200px;
+  height: 200px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid blue;
+  border-radius: 4px;
+  :hover {
+    background-color: lightgreen;
+    color: white;
+  }
+}
