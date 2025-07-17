@@ -1,5 +1,26 @@
 {
   "HomePage": {
     "homeTitle": "Please select language"
+  },
+  "Q1": {
+    "enterName": "Please enter your name?",
+    "placeholderName": "Enter your name"
+  },
+  "Q2": {
+    "enterAge": "Please enter your age?",
+    "placeholderAge": "Enter your age "
+  },
+  "Q3": {
+    "enterHeight": "Please enter your height?",
+    "placeholderHeight": "Enter your height "
+  },
+  "Q4": {
+    "enterWeight": "Please enter your weight?",
+    "placeholderWeight": "Enter your weight "
+  },
+  "Results": {
+    "hello": "Hello",
+    "resultsTitle": "Results",
+    "bmiResult": "Your BMI is {BMI}"
   }
 }

@@ -1,5 +1,26 @@
 {
   "HomePage": {
-    "homeTitle": "Seleccionar idioma"
+    "homeTitle": "Por favor seleccione el idioma"
+  },
+  "Q1": {
+    "enterName": "¿Cuál es tu nombre?",
+    "placeholderName": "Ingrese su nombre"
+  },
+  "Q2": {
+    "enterAge": "¿Cuál es tu edad?",
+    "placeholderAge": "Ingrese su edad"
+  },
+  "Q3": {
+    "enterHeight": "¿Cuál es tu altura?",
+    "placeholderHeight": "Ingrese su altura"
+  },
+  "Q4": {
+    "enterWeight": "¿Cuál es tu peso?",
+    "placeholderWeight": "Ingrese su peso"
+  },
+  "Results": {
+    "hello": "Hola",
+    "resultsTitle": "Resultados",
+    "bmiResult": "Tu IMC es {BMI}"
   }
 }

@@ -1,0 +1,16 @@
+.container {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding: 80px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 60px;
+}
+
+.result {
+  margin-bottom: 30px;
+}

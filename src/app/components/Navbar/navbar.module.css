@@ -7,19 +7,3 @@
   height: 100px;
   border-bottom: 2px solid rgb(55, 33, 104);
 }
-
-.navbar-center .nav-links {
-  list-style-type: none;
-  display: flex;
-  margin: 0;
-  padding: 0;
-}
-
-/* .navbar-center .nav-links li {
-  margin-right: 1rem;
-}
-
-.navbar-center .nav-links a {
-  color: black;
-  text-decoration: none;
-} */

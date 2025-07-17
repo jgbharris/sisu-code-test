@@ -15,4 +15,8 @@
     background-color: lightgreen;
     color: white;
   }
+
+  :focus {
+    background-color: lightgreen;
+  }
 }
